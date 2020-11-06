@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="688018d3-0bf8-4e5c-9758-68b5bb158207" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ecRZ8E0iwk2f1hfFJu7uueSFjl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson-5" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688018d3-0bf8-4e5c-9758-68b5bb158207" name="Default Changelist" comment="" />
+      <created>1594618946678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594618946678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594619067389">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="397" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1366.736@0.32.1366.736" timestamp="1594619067389" />
+    <state x="466" y="158" width="424" height="488" key="FileChooserDialogImpl" timestamp="1594662362038">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="466" y="158" width="424" height="488" key="FileChooserDialogImpl/0.32.1366.736@0.32.1366.736" timestamp="1594662362038" />
+    <state x="0" y="32" width="630" height="736" key="find.popup" timestamp="1594619052355">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="0" y="32" width="630" height="736" key="find.popup/0.32.1366.736@0.32.1366.736" timestamp="1594619052355" />
+  </component>
+</project>
